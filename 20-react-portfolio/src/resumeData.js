@@ -1,9 +1,8 @@
 let resumeData = {
-    "imagebaseurl":"https://github.com/shogren/",
     "name": "Jonathan Shogren",
     "role": "Software Engineer",
     "linkedinId":"https://www.linkedin.com/in/jon-shogren-96245a1b3/",
-    "roleDescription": "I am a Software Engineer",
+    "roleDescription": "Software Engineer",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -16,7 +15,6 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":"I am a Software Engineer",
     "address":"Atlanta, Ga",
     "website":"https://fart.cool",
     "education":[
@@ -37,50 +35,28 @@ let resumeData = {
         "Achievements":"Some Achievements"
       }
     ],
-    "skillsDescription":"Your skills here",
-    "skills":[
-      {
-        "skillname":"HTML5"
-      },
-      {
-        "skillname":"CSS"
-      },
-      {
-        "skillname":"Reactjs"
-      }
-    ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Employee Tracker",
+        "description":"command line app",
+        "imgurl":"images/portfolio/project1.jpg"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Recipe Finder",
+        "description":"web app",
+        "imgurl":"images/portfolio/project2.jpg"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Weather Dashboard",
+        "description":"web app",  
+        "imgurl":"images/portfolio/project3.jpg"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Work Day Scheduler",
+        "description":"mobile app",
+        "imgurl":"images/portfolio/project4.jpg"
       }
     ],
-    "testimonials":[
-      {
-        "description":"This is a testimonial",
-        "name":"Coworker"
-      },
-      {
-        "description":"This is a testimonial",
-        "name":"Coworker"
-      }
-    ]
   }
   
   export default resumeData
