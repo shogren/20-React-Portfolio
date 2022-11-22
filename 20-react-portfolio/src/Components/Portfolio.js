@@ -6,18 +6,18 @@ export default class Porfolio extends Component {
       <section id="portfolio">
       <div className="row">
         <div className="twelve columns collapsed">
-          <h1>Check Out The Projects I've Been Working On.</h1>
+          <h1>Check Out The Projects I've Been Working On:</h1>
           <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
           {
             resumeData.portfolio && resumeData.portfolio.map((item)=>{
               return(
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
-                    <a href="#modal-01">
-                      <img src={`${item.imgurl}`} className="item-img"/>
+                    <a href={item.github}>
+                      <img src={`${item.imgurl}`} alt="Screenshot of the project." className="item-img"/>
                       <div className="overlay">
                         <div className="portfolio-item-meta">
-                          <h5>{item.name}</h5>
+                          <h4><a href={item.github}>{item.name}</a></h4>
                           <p>{item.description}</p>
                         </div>
                       </div>

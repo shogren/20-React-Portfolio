@@ -14,11 +14,11 @@ export default class ContactUs extends Component {
           <div className="row">
             <aside className="eigth columns footer-widgets">
               <div className="widget">
-                <h4>LinkedIn:
-                <a href={resumeData.linkedinId}>linkedin.com/in/jon-shogren</a>
+                <h4>LinkedIn: 
+                <a href={resumeData.linkedinId}> linkedin.com/in/jon-shogren</a>
                 </h4>
-                <h4>Email:
-                <a href="mailto:jon@fart.cool">jon@fart.cool</a>
+                <h4>Email: 
+                <a href="mailto:jon@fart.cool"> jon@fart.cool</a>
                 </h4>
               </div>
             </aside>

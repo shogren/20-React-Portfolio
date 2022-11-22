@@ -12,15 +12,15 @@ export default class Header extends Component {
             <ul id="nav" className="nav">
                <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
                <li><a className="smoothscroll" href="#about">About</a></li>
-             <li><a className="smoothscroll" href="#resume">Resume</a></li>
-               <li><a className="smoothscroll" href="#portfolio">Works</a></li>
+             <li><a className="smoothscroll" href="#resume">Resumè</a></li>
+               <li><a className="smoothscroll" href="#portfolio">Projects</a></li>
                <li><a className="smoothscroll" href="#contact">Contact</a></li>
             </ul>
          </nav>
 
          <div className="row banner">
             <div className="banner-text">
-               <h1 className="responsive-headline">Hi! I'm Jonathan Shogren</h1>
+               <h1 className="responsive-headline">Hi! <br></br>I'm Jonathan Shogren</h1>
                <h3 style={{color:'#fff', fontFamily:'sans-serif '}}>I'm a Software Engineer.
                </h3>
                <hr/>

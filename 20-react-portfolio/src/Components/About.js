@@ -16,7 +16,7 @@ export default class About extends Component {
 
                <h2>About Me</h2>
                <p>
-               I'm a Software Engineer based outside of Atlanta, Georgia. When I'm not staring at a computer, I'm chasing my kids around or playing hockey. 
+               I'm a Software Engineer based outside of Atlanta, Georgia.<br></br> When I'm not staring at a computer, I'm chasing my kids around or playing hockey. 
                </p>
 
                <div className="row">
@@ -25,13 +25,13 @@ export default class About extends Component {
 
                   <h2>Contact Details</h2>
                   <p className="address">
-       						<span>{resumeData.name}</span>
+       						<span><a href="mailto:email@example.com">Jonathan Shogren</a></span>
                      <br></br>
        						   <span>
                      {resumeData.address}
                     </span>
                     <br></br>
-                    <span>{resumeData.website}</span>
+                    <span> <a href="https://fart.cool">fart.cool</a> </span>
        					   </p>
                   </div>
                </div>

@@ -21,40 +21,47 @@ let resumeData = {
       {
         "UniversityName":"Georgia State Unitversity",
         "specialization":"History",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2007",
-        "Achievements":"BA History"
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2008",
+        "Achievements":"I received a Bachelor of Arts in History."
       }
     ],
     "work":[
       {
         "CompanyName":"Mailchimp",
         "specialization":"Software Engineering",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "MonthOfLeaving":"May 2015 - ",
+        "YearOfLeaving":"Present",
+        "Achievements":"I've worked at Mailchimp in a few capacities: first as technical support for a transactional email product called Mandrill. Then as a 'Technical Support Engineer' focusing on building internal tools and supporting Mailchimp employees. Then recently as a Software Engineer, working on product platform team that focuses on stability and scaling."
       }
     ],
     "portfolio":[
       {
         "name":"Employee Tracker",
-        "description":"command line app",
-        "imgurl":"images/portfolio/project1.jpg"
+        "description":"A command line app that helps you input employees and track their progress, all from within you terminal!",
+        "imgurl":"images/portfolio/project1.jpg",
+        "github:":"<a href='https://github.com/shogren/battlesnake'>"
       },
       {
         "name":"Recipe Finder",
-        "description":"web app",
+        "description":"Search for a keyword, and receive a recipe along with a YouTube video on how to prepare it.",
         "imgurl":"images/portfolio/project2.jpg"
       },
       {
         "name":"Weather Dashboard",
-        "description":"web app",  
+        "description":"Find weather in your city, and save recent searches.",  
         "imgurl":"images/portfolio/project3.jpg"
       },
       {
         "name":"Work Day Scheduler",
-        "description":"mobile app",
+        "description":"Schedule your day, hour by hour!",
         "imgurl":"images/portfolio/project4.jpg"
+      },
+      {
+        "name":"Manny the BattleSnake",
+        "description":"My BattleSnake, written in Go and hosted on GCP.",
+        "imgurl":"images/portfolio/project5.jpg",
+        "github:":"https://github.com/shogren/battlesnake"
       }
     ],
   }
