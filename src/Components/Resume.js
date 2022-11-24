@@ -82,6 +82,8 @@ export default  class Resume extends Component {
 
                         
                         </p>
+                        <br></br>
+                        <a href="/resume.txt" download>Click here to Download my resume</a>
                     </div>
                   </div>
                 )

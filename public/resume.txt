@@ -1,0 +1,23 @@
+Jon Shogren
+
+Work 
+
+Mailchimp
+
+I've worked at Mailchimp in a few capacities: 
+* first as technical support for a transactional email product called Mandrill. 
+* Then as a 'Technical Support Engineer' focusing on building internal tools and supporting Mailchimp employees. 
+* Then recently as a Software Engineer, working on product platform team that focuses on stability and scaling.
+
+Education
+
+Georgia State Unitversity
+History• May 2008
+* I received a Bachelor of Arts in History.
+
+Skills
+
+Software Developement
+* Proficiant with PHP and Javascript
+* Familiar working in both Amazon AWS and Google GCP
+

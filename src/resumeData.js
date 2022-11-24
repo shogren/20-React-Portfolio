@@ -39,8 +39,7 @@ let resumeData = {
       {
         "name":"Employee Tracker",
         "description":"A command line app that helps you input employees and track their progress, all from within you terminal!",
-        "imgurl":"images/portfolio/project1.jpg",
-        "github:":"<a href='https://github.com/shogren/battlesnake'>"
+        "imgurl":"images/portfolio/project1.jpg"
       },
       {
         "name":"Recipe Finder",
@@ -60,8 +59,12 @@ let resumeData = {
       {
         "name":"Manny the BattleSnake",
         "description":"My BattleSnake, written in Go and hosted on GCP.",
-        "imgurl":"images/portfolio/project5.jpg",
-        "github:":"https://github.com/shogren/battlesnake"
+        "imgurl":"images/portfolio/project5.jpg"
+      },
+      {
+        "name":"Password Generator",
+        "description":"Generate a strong password in your browser.",
+        "imgurl":"images/portfolio/project6.jpg"
       }
     ],
   }
