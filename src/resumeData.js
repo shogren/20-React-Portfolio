@@ -37,6 +37,11 @@ let resumeData = {
     ],
     "portfolio":[
       {
+        "name":"WTFcode",
+        "description":"WTFcode uses OpenAI to explain code and save your snippets to view later!",
+        "imgurl":"images/portfolio/project7.jpg"
+      },
+      {
         "name":"Employee Tracker",
         "description":"A command line app that helps you input employees and track their progress, all from within you terminal!",
         "imgurl":"images/portfolio/project1.jpg"
