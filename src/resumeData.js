@@ -39,7 +39,7 @@ let resumeData = {
       {
         "name":"WTFcode",
         "description":"WTFcode uses OpenAI to explain code and save your snippets to view later!",
-        "imgurl":"images/portfolio/project7.jpg"
+        "imgurl":"images/portfolio/project7.png"
       },
       {
         "name":"Employee Tracker",
