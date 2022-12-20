@@ -26,6 +26,6 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 ## Additional Notes
 
-Currently, the contact form does have a backend that sends an email. That functionality will be added later.
+Currently, the contact form does not have a backend that sends an email. That functionality will be added later.
 
 The app can be found live at [https://shogren.github.io/20-React-Portfolio/](https://shogren.github.io/20-React-Portfolio/)
